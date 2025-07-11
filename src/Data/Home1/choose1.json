@@ -1,0 +1,17 @@
+[
+  {
+    "img": "/assets/img/icons/work-iocn1.png",  
+    "title": "Verifikasi Produk Otomatis",
+    "desc": "Sistem kode unik untuk memastikan keaslian produk dan melindungi dari pemalsuan."
+  },
+  {
+    "img": "/assets/img/icons/work-iocn2.png",  
+    "title": "Manajemen Sistem Digital Brand",
+    "desc": "Kami bantu integrasikan sistem cerdas ke dalam alur produksi dan distribusi produk Anda."
+  },
+  {
+    "img": "/assets/img/icons/work-iocn3.png",  
+    "title": "Keamanan & Pemulihan Data Brand",
+    "desc": "Lindungi data penting dan jaga kesinambungan sistem Anda dengan solusi aman & terukur."
+  }
+]

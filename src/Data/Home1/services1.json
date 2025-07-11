@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "/assets/img/icons/service-icon1.png",
+    "title": "Verifikasi Keaslian Produk",
+    "desc": "Pastikan produk pelanggan asli dengan sistem kode unik yang sulit dipalsukan dan mudah diverifikasi.",   
+    "addClass": "col-lg-6"
+  },
+  {
+    "icon": "/assets/img/icons/service-icon2.png",
+    "title": "Data Interaksi Konsumen",
+    "desc": "Pantau dan analisa interaksi konsumen dari setiap pemindaian kode untuk memahami perilaku pengguna secara langsung.",  
+    "addClass": "col-lg-6"
+  },
+  {
+    "icon": "/assets/img/icons/service-icon3.png",
+    "title": "Keamanan & Kendali Distribusi",
+    "desc": "Lindungi brand dari pemalsuan dan distribusi ilegal melalui pelacakan rantai distribusi berbasis kode unik.",   
+    "addClass": "col-lg-4"
+  },
+  {
+    "icon": "/assets/img/icons/service-icon4.png",
+    "title": "Integrasi Sistem Digital",
+    "desc": "Sistem kami dapat diintegrasikan dengan mudah ke dalam proses produksi dan kemasan brand tanpa mengubah alur kerja.",
+    "addClass": "col-lg-4"
+  },
+  {
+    "icon": "/assets/img/icons/service-icon5.png",
+    "title": "Dukungan & Konsultasi Teknologi",
+    "desc": "Tim kami siap mendampingi proses digitalisasi produk dari awal hingga berjalan penuh di lapangan maupun virtual.",   
+    "addClass": "col-lg-4"
+  }   
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "img": "/assets/img/icons/hero-bottom-icon1.png",  
+    "title": "Inovasi Teknologi",
+    "desc": "Selalu siap mendukung"
+  },
+  {
+    "img": "/assets/img/icons/hero-bottom-icon2.png",  
+    "title": "10+ Brand",
+    "desc": "Memakai verifikasi unik"
+  },
+  {
+    "img": "/assets/img/icons/hero-bottom-icon3.png",  
+    "title": "10rb Interaksi",
+    "desc": "Pemindaian kode produk"
+  },  
+  {
+    "img": "/assets/img/icons/hero-bottom-icon4.png",  
+    "title": "4x Penghargaan",
+    "desc": "Solusi cerdas berbasis data"
+  }
+]
