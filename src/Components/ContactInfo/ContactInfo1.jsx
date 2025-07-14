@@ -9,17 +9,17 @@ const ContactInfo1 = () => {
                     <div className="col-lg-6">
                         <div className="contact-boxs">
                             <div className="heading1">
-                                <h2>Contact Information</h2>
+                                <h2>Informasi Kontak</h2>
                                 <div className="space16"></div>
-                                <p>We Have grown up with the internet revolution, and we <br/> know how to deliver on its</p>
+                                <p>Kami tumbuh bersama, dan kami tahu cara mewujudkannya</p>
                             </div>
                             <div className="contact-box">
                                 <div className="icon">
                                     <img src="/assets/img/icons/contact-page-icon1.png" alt="" />
                                 </div>
                                 <div className="heading">
-                                    <h5>Contact Us</h5>
-                                    <a href="tel:(124)555-6565" className="text">(124) 555-6565</a>
+                                    <h5>Hubungi Kami</h5>
+                                    <a href="https://api.whatsapp.com/send/?phone=6281233308691&text&type=phone_number&app_absent=0" className="text">+62 8123 330 8691</a>
                                 </div>
                             </div>
 
@@ -28,8 +28,8 @@ const ContactInfo1 = () => {
                                     <img src="/assets/img/icons/contact-page-icon2.png" alt="" />
                                 </div>
                                 <div className="heading">
-                                    <h5>Send Us a Mail</h5>
-                                    <a href="mailto:admin@techxen.org " className="text">admin@techxen.org </a>
+                                    <h5>Kirimi Kami Email</h5>
+                                    <a href="mailto:berkahmanutgusti01@gmail.com " className="text">berkahmanutgusti01@gmail.com </a>
                                 </div>
                             </div>
 
@@ -38,8 +38,8 @@ const ContactInfo1 = () => {
                                     <img src="/assets/img/icons/contact-page-icon3.png" alt="" />
                                 </div>
                                 <div className="heading">
-                                    <h5>Office Location</h5>
-                                    <a href="tel:(124)555-6565" className="text">73 Bridge St Brooklyn Arakansas <br/> 85032 United States, NY 10018</a>
+                                    <h5>Alamat</h5>
+                                    <a href="https://api.whatsapp.com/send/?phone=6281233308691&text&type=phone_number&app_absent=0" className="text">Sleman, Yogyakarta</a>
                                 </div>
                             </div>
 

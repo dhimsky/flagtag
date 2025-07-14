@@ -7,7 +7,7 @@ const ContactPage = () => {
     return (
         <div>
             <BreadCumb Title="Contact Us"></BreadCumb>
-            <MarqueeText></MarqueeText>
+            {/* <MarqueeText></MarqueeText> */}
             <ContactInfo1></ContactInfo1>
             <Cta1></Cta1>
         </div>

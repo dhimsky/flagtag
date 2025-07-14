@@ -4,7 +4,14 @@ const BreadCumb = ({Title}) => {
     
     return (
 
-      <div className="common-hero" >
+      <div className="common-hero" 
+      style={{
+      backgroundImage: `url('/assets/img/bg/hero1-bg.png')`,
+      backgroundSize: 'cover',
+      backgroundPosition: 'center',
+      backgroundRepeat: 'no-repeat',
+      }}
+      >
       <div className="container">
         <div className="row align-items-center text-center">
           <div className="col-lg-6 m-auto">

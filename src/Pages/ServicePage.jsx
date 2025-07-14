@@ -8,7 +8,7 @@ const ServicePage = () => {
     return (
         <div className="service-page">
             <BreadCumb Title="Our Services"></BreadCumb>
-            <MarqueeText></MarqueeText>
+            {/* <MarqueeText></MarqueeText> */}
             <Service6></Service6>
             <Vission1></Vission1>
             <Cta1></Cta1>

@@ -14,9 +14,9 @@ const Service6 = () => {
                   <div className="icon">
                     <img src={item.icon} alt="" />
                   </div>
-                  <Link to={item.btnLink} className="arrow"><i className="bi bi-arrow-right"></i></Link>
+                  <Link className="arrow"><i className="bi bi-arrow-right"></i></Link>
                   <div className="heading1">
-                    <h4><Link to={item.btnLink}>{item.title}</Link></h4>
+                    <h4><Link>{item.title}</Link></h4>
                     <div className="space16"></div>
                     <p>{item.desc}</p>
                   </div>
